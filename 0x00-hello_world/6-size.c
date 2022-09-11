@@ -2,7 +2,7 @@
 
 /**
  * main- Entry point
- *
+ * number stored in the variable n
  * Return 0 (Success)
  */
 
