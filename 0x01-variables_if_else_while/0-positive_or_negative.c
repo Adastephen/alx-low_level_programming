@@ -2,9 +2,10 @@
 #include <stdlib.h>
 #include <time.h>
 
-/** main- determine whether the number stored in the variable n is positive or negative.
+/**
+ * main- determine whether the number stored in the variable n is positive or negative.
  * 
- *Desciption: program will assign a random number n each time program is run if it is executable.
+ * Desciption: program will assign a random number n each time program is run if it is executable.
  *
  * Return Always 0 (Success)
  */
