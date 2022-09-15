@@ -3,9 +3,8 @@
 /**
  * main- Entry pount
  *
- * Description: function that print_alphabet in lower case,
+ * Description: function for print_alphabet in lower case,
  * followed by a new line
- *
  * Return: always 0 (Success)
  */
 
