@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_sign main - Entry point
+ * print_sign - main Entry point
  *
  * @n: print the sign
  *
