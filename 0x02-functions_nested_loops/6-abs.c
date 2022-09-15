@@ -8,7 +8,7 @@
  *
  * Return:always 0
  */
-int_abs(int)
+int _abs(int)
 {
 	if (n > 0)
 		return (n);
