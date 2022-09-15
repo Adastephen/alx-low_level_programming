@@ -6,8 +6,9 @@
  * Description: write a program that print
  * _putchar followed by newline
  *
- * Return Always 0 (Success)
+ * Return: Always 0 (Success)
  */
+
 int main(void)
 {
 	_putchar('_');
