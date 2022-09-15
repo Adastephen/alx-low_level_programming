@@ -4,7 +4,7 @@
  * _islower - main Entry ppoint
  *
  * @c: character to compare
- * 
+ *
  * Return: if true 1, else return 0
  *
  */
