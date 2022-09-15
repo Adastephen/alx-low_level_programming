@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * int_abs - main Entry
+ * _abs - main Entry
  *
  * @n: compute the value
  *
