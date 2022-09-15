@@ -3,7 +3,8 @@
 /**
  * _isalpha - main Entry point
  *
- * Description: this is to check if is in lowercase
+ * @c: character to compare
+ * this is to check if is in lowercase
  * or uppercase letter
  *
  * Return: 1 if true , else return 0
