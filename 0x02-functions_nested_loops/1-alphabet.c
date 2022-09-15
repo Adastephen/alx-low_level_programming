@@ -4,7 +4,7 @@
  * main- Entry pount
  *
  * Description: function for print_alphabet in lower case,
- * followed by a new line
+ * print_alphabet followed by a new line
  * Return: always 0 (Success)
  */
 
