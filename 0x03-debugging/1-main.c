@@ -13,10 +13,10 @@ int main(void)
 
 	i = 0;
 	/*
-	 * whilw (i < 10)
-	 * {
-	 * putchar(1);
-	 * }
+	 *whilw (i < 10)
+	 *{
+	 *putchar(1);
+	 *}
 	 */
 	printf("infinite loop avoided! \\o/\n");
 
