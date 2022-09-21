@@ -3,7 +3,7 @@
 /**
  * swap_int - main Entry
  *
- * Description: swap int value a to b and vice versa
+ * @n: int a and int b swap int value a to b and vice versa
  *
  * Return: always 0
  */
