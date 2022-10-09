@@ -19,8 +19,6 @@ int _isupper(int c)
 			break;
 		}
 	}
-	return (isupper)
-	return (c >= 'A' && c <= 'Z');
-	
+	return (isupper);	
 }
 
