@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdlib.h>
+
 
 /**
  * main - write a program that peint the name of the file
@@ -8,11 +8,9 @@
  * Return: Always 0
  */
 
-int main()
+int main(void)
 {
-	char ch = '2-main.c';
+	printf("%s\n", __FILE__);
 
-		_putchar(ch);
-	_putchar('\n');
 	return(0);
 }
