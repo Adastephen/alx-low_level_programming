@@ -6,7 +6,7 @@
  * Return Always 0
  */
 void more_numbers(void)
-{
+/*{
 	char i = '0';
 	char j;
 
@@ -20,7 +20,7 @@ void more_numbers(void)
 	_putchar('\n');
 	}
 }
-/*
+*/
 { 
 	int i, j = 0;
 
@@ -35,4 +35,3 @@ void more_numbers(void)
 		_putchar('\n');
 	}
 }
-*/
