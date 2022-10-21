@@ -3,6 +3,7 @@
 /**
  * main - Write a program that prints the alphabet in lowercase
  * followed by a new line.
+ * 
  * @e: print not e character
  * @q: print not q character
  *
