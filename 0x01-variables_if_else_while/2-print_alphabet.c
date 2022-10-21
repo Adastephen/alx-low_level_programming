@@ -1,45 +1,22 @@
-/*
- *
- *  * File: 2-print_alphabet.c
- *
- *   * Auth: Brennan D Baraban
- *
- *    */
-
-
-
 #include <stdio.h>
 
-
-
 /**
+ * main - Write a program that prints the alphabet in lowercase
+ * followed by a new line.
  *
- *  * main - Prints the alphabet in lowercase.
+ * Return: Always 0.
  *
- *   *
- *
- *    * Return: Always 0.
- *
- *     */
+ */
 
 int main(void)
 
 {
+	int ch = 'a';
 
-		char letter;
-
-
-
-			for (letter = 'a'; letter <= 'z'; letter++)
-
-						putchar(letter);
-
-
-
-				putchar('\n');
-
-
-
-					return (0);
-
+	for (; ch <= 'z'; ch++)
+	{
+		putchar(ch);
+		putchar('\n');
+	}
+	return (0);
 }
