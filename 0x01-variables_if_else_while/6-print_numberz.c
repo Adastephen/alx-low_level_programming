@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 /**
  * main - Write a program that prints all single digit numbers
  * of base 10 starting from 0,
@@ -8,12 +9,12 @@
  */
 int main(void)
 {
-	int a = 0;
+	int a = '0';
 
-	for (; a <= 9; a++)
+	for (; a <= '9'; a++)
 	{
-		printf("%d", a);
+		putchar(a);
 	}
-	printf("\n");
+	putchar('\n');
 	return (0);
 }
