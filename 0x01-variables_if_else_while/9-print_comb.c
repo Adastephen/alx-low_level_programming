@@ -6,7 +6,7 @@
  *
  * Numbers must be separated by ,, followed by a space
  * Numbers should be printed in ascending order
- * Return; Always 0
+ * Return: Always 0
  */
 int main(void)
 {
@@ -15,8 +15,12 @@ int main(void)
 	for (; a <= '9'; a++)
 	{
 		putchar(a);
-		putchar(',');
-		putchar(' ');
+
+		if (a != '9')
+		{
+			putchar(',');
+			putchar(' ');
+		}
 	}
 	putchar('\n');
 	return (0);
