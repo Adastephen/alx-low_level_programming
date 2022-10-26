@@ -3,7 +3,7 @@
 
 /**
  * print_listint - prints integers in list
- * 
+ *
  * @h: struct listint_t type
  * Return: size_t value
  */
