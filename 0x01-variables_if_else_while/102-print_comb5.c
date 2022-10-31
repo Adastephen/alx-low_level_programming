@@ -19,17 +19,17 @@ int main(void)
 				for (d = '0'; d <= '9'; d++)
 				{
 					if ((c + d) > (a + b) && c >= a)
-					{	
+					{
 						putchar(a);
 						putchar(b);
 						putchar(' ');
 						putchar(c);
 						putchar(d);
-						if (a != '9' || b != '8');
-						{
-							putchar(',');
-							putchar(' ');
-						}
+if (a != '9' || b != '8')
+					}
+					putchar(',');
+					putchar(' ');
+					}
 					}
 				}
 			}
