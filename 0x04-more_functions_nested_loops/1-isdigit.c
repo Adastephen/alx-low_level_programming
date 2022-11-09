@@ -8,16 +8,12 @@
  */
 int _isdigit(int c)
 {
-	int isdigit = 0;
-	int notdigit = 0;
-
-	for (; isdigit <= 9; isdigit++)
+	if (c > 47 &&  C < 58)
 	{
-		if (c == isdigit)
-		{
-			notdigit = 1;
-			break;
-		}
+		return (1);
 	}
-	return (notdigit);
+	else
+	{
+		return (0);
+	}
 }
